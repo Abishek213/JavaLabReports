@@ -1,4 +1,4 @@
-package javaproject;
+package AdvanceJavaProject.src.javaproject;
 
 import javax.swing.*;
 import javax.swing.text.Utilities;

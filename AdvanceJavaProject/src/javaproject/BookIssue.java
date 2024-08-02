@@ -1,4 +1,4 @@
-package javaproject;
+package AdvanceJavaProject.src.javaproject;
 
 public class BookIssue {
     private int studentId;

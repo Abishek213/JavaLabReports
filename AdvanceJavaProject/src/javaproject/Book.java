@@ -1,4 +1,4 @@
-package javaproject;
+package AdvanceJavaProject.src.javaproject;
 
 public class Book {
     private String author;

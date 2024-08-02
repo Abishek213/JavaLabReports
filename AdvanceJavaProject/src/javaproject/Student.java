@@ -1,4 +1,4 @@
-package javaproject;
+package AdvanceJavaProject.src.javaproject;
 
 public class Student {
     private String firstName;
